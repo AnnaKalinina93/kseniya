@@ -10,7 +10,7 @@ function Footer(): JSX.Element {
           <h3 className="footer-title">Email:</h3><a className="footer-link" href="mailto:kk.eco@cbs.dk">kk.eco@cbs.dk</a>
         </li>
         </ul>
-        <p>© 2023 Kseniia Kurishchenko: powered by Anna Kalinina</p>
+        <p>© 2023 Kseniia Kurishchenko: powered by Anna Kalinina (sister <img className="smile" src="img/smile.png" alt="smile" width="20"/>)</p>
     </footer>
   );
 }

@@ -6,7 +6,7 @@ function Header(): JSX.Element {
     return (
       <header className="header" >
         <div className="container header-wrapper"> 
-        <Logo/>
+        <div></div>
         <Navbar />
         </div>
       </header>
