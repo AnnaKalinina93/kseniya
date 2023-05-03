@@ -38,7 +38,7 @@ function About(): JSX.Element {
             <div className="about">
                 <img className="about-img" src="img/portrait.webp" alt="Kseniia Kurishchenko" />
                 <h1 className="about-title">Kseniia Kurishchenko</h1>
-                <p className="about-text">Job Market candidate 2023/2024 at the Department of Economics, Copenhagen Business School</p>
+                <p className="about-text">PhD Fellow <br/>Copenhagen Business School</p>
                 <ul className="social-list">
                     <li className="social-item">
                         <a className="social-link" href={cv} download="Kseniia-Kurishchenko-cv">
