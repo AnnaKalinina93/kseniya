@@ -12,10 +12,10 @@ function Research(): JSX.Element {
             <section className="section">
                 <h2 className="main-title">WORKING PAPERS</h2>
                 <p className="main-text">
-                    <strong>Fair Random Forests via Mathematical Optimization,</strong> Emilio Carrizosa, Kseniia Kurishchenko, Dolores Romero Morales, 2023
+                    <strong>Fair Random Forests via Mathematical Optimization,</strong> Emilio Carrizosa, Kseniia Kurishchenko, Dolores Romero Morales, 2023.
                 </p>
                 <p className="main-text">
-                    <strong>Fair Prescriptive Random Forests,</strong> Kseniia Kurishchenko, 2023
+                    <strong>Fair Prescriptive Random Forests,</strong> Kseniia Kurishchenko, 2023.
                 </p>
             </section>
         </div>

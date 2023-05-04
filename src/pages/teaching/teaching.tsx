@@ -7,7 +7,7 @@ function Teaching(): JSX.Element {
                 <p className="main-text"><strong>Data Science: Data Driven Decision Making,</strong> Teaching Assistant, Copenhagen Business School, 2020, 2021, 2023.
                 </p>
                 <p className="main-text">
-                    <strong>Applied Econometrics, Teaching Assistant,</strong> Copenhagen Business School, fall semester 2020.
+                    <strong>Applied Econometrics, </strong> Teaching Assistant, Copenhagen Business School, 2020.
                 </p>
                 <p className="main-text"><strong>Mathematical Optimization: Models, Methods and Applications,</strong> Teaching Assistant, Copenhagen Business School, 2020.
                 </p>
@@ -15,7 +15,7 @@ function Teaching(): JSX.Element {
             </section>
             <section className="section">
                 <h2 className="main-title">DISSEMINATION</h2>
-                <p className="main-text"><a className="link" href="https://congreso.us.es/mlneedsmo/" target="_blank" rel="noreferrer">Machine Learning NeEDS Mathematical Optimization online seminar series,</a>Co-organizer, January 2021 – March 2022.
+                <p className="main-text"><a className="link" href="https://congreso.us.es/mlneedsmo/" target="_blank" rel="noreferrer">Machine Learning NeEDS Mathematical Optimization online seminar series,</a> Co-organizer, January 2021 – March 2022.
                 </p>
                 <p className="main-text"><strong>32nd European Conference on Operational Research,</strong> Espoo (Finland), Co-organizer of the stream “Machine Learning and Mathematical Optimization”, July 2022.
                 </p>
