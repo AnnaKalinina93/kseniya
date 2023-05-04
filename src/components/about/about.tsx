@@ -41,7 +41,7 @@ function About(): JSX.Element {
                 <p className="about-text">PhD Fellow <br/>Copenhagen Business School</p>
                 <ul className="social-list">
                     <li className="social-item">
-                        <a className="social-link" href={cv} download="Kseniia-Kurishchenko-cv">
+                        <a className="social-link" href={cv} target="_blank" rel="noreferrer">
                             <object
                                 className="src"
                                 type="image/svg+xml"
