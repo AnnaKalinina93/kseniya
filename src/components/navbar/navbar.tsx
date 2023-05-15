@@ -13,10 +13,6 @@ const NavBarList = [
         item: 'TEACHING',
         link: '/teaching',
     },
-    {
-        item: 'CONTACT',
-        link: '/contact',
-    },
 
 ];
 

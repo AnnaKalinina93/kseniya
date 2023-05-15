@@ -1,4 +1,3 @@
-import Logo from '../logo/logo';
 import Navbar from '../navbar/navbar';
 
 function Header(): JSX.Element {

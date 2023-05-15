@@ -6,7 +6,7 @@ import About from '../about/about';
 import Research from '../../pages/research/research';
 import CV from '../../pages/cv/cv';
 import Teaching from '../../pages/teaching/teaching';
-import ContactPage from '../../pages/contact-page/contact-page';
+import NotFoundScreen from '../../pages/no-found-screen/no-found-screen';
 function App(): JSX.Element {
   return (
     <>
@@ -18,7 +18,7 @@ function App(): JSX.Element {
           <Route path="/research" element={<Research />} />
           <Route path="/cv" element={<CV />} />
           <Route path="/teaching" element={<Teaching />} />
-          <Route path="/contact" element={<ContactPage />} />
+          <Route path="*" element={<NotFoundScreen />} />
         </Routes>
       </div>
       <Footer />
