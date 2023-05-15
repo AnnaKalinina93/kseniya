@@ -2,17 +2,18 @@ import { Link, useLocation } from "react-router-dom";
 
 const NavBarList = [
     {
-        item: 'RESEARCH',
-        link: '/research',
+        item: 'HOME',
+        link: '/',
     },
     {
-        item: 'CV',
-        link: '/cv',
+        item: 'RESEARCH',
+        link: '/research',
     },
     {
         item: 'TEACHING',
         link: '/teaching',
     },
+
 ];
 
 function Navbar(): JSX.Element {
